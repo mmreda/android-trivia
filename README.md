@@ -6,10 +6,12 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 
 ## Screenshots
 
-![Screenshot1](Android_Trivia_Screenshot_1.png) 
-![Screenshot2](Android_Trivia_Screenshot_2.png)
-![Screenshot3](Android_Trivia_Screenshot_3.png)
-![Screenshot4](Android_Trivia_Screenshot_4.png)
-![Screenshot5](Android_Trivia_Screenshot_5.png)
-![Screenshot6](Android_Trivia_Screenshot_6.png)
-![Screenshot7](Android_Trivia_Screenshot_7.png)
+![Screenshot1](screenshots/Android_Trivia_Screenshot_1.png) 
+![Screenshot2](screenshots/Android_Trivia_Screenshot_2.png)
+![Screenshot3](screenshots/Android_Trivia_Screenshot_3.png)
+![Screenshot4](screenshots/Android_Trivia_Screenshot_4.png)
+![Screenshot5](screenshots/Android_Trivia_Screenshot_5.png)
+![Screenshot6](screenshots/Android_Trivia_Screenshot_6.png)
+![Screenshot7](screenshots/Android_Trivia_Screenshot_7.png)
+![Screenshot8](screenshots/Android_Trivia_Screenshot_8.png)
+
