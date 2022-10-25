@@ -4,7 +4,17 @@ The Android Trivia application is an application that asks the user trivia quest
 The app navigates using buttons, the Action Bar, and the Navigation Drawer.
 Since students haven't yet learned about saving data or the Android lifecycle, it tries to eliminate bugs caused by configuration changes. 
 
-## Screenshots
+## What I Did
+
+- Use Navigation component to move between different screens
+- Implementation a Title Fragment
+- Adding the Navigation Drawer
+- Adding Safe Arguments
+- Adding support for the Up Button
+- Adding Share Button
+- Adding Animation with Navigation
+
+### Screenshots
 
 ![Screenshot1](screenshots/Android_Trivia_Screenshot_1.png) 
 ![Screenshot2](screenshots/Android_Trivia_Screenshot_2.png)
